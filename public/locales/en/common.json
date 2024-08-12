@@ -910,5 +910,11 @@
         "links": "Links",
         "collections": "Collections",
         "tags": "Tags"
+    },
+    "syncthing": {
+        "connected": "Connected",
+        "synced": "Synced",
+        "errors": "Errors",
+        "storage": "Storage"
     }
 }

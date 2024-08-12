@@ -99,6 +99,7 @@ import stash from "./stash/widget";
 import stocks from "./stocks/widget";
 import strelaysrv from "./strelaysrv/widget";
 import swagdashboard from "./swagdashboard/widget";
+import syncthing from "./syncthing/widget";
 import tailscale from "./tailscale/widget";
 import tandoor from "./tandoor/widget";
 import tautulli from "./tautulli/widget";
@@ -223,6 +224,7 @@ const widgets = {
   stocks,
   strelaysrv,
   swagdashboard,
+  syncthing,
   tailscale,
   tandoor,
   tautulli,
